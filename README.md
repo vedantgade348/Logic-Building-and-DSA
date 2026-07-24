@@ -92,16 +92,15 @@ Logic-Building-and-DSA/
 │
 └── README.md
 
+ 💻 Programming Languages
+
+The problems in this repository are implemented using **C, C++, and Java** as I progress through logic building and Data Structures & Algorithms.
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-
-💻 Programming Language
-
-The problems in this repository are primarily implemented using **Java**.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
----
 
 ## 🧩 Problem-Solving Approach
 
