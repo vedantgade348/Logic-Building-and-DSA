@@ -1,16 +1,7 @@
-Repository name
-
-Logic-Building-and-DSA
-
-### Description
-
-
-A structured collection of Logic Building and Data Structures & Algorithms problems focused on strengthening problem-solving and coding fundamentals.
-
 
 ### Suggested topics
 
-dsa` `data-structures` `algorithms` `problem-solving` `logic-building` `coding-interview` `java`
+dsa data-structures algorithms problem-solving logic-building coding-interview java 
 
 ### README.md
 
