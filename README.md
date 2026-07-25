@@ -1,10 +1,4 @@
 
-### Suggested topics
-
-dsa data-structures algorithms problem-solving logic-building coding-interview java 
-
-### README.md
-
  🧠 Logic Building & Data Structures and Algorithms
 
 This repository documents my journey of strengthening **problem-solving, logic building, and Data Structures & Algorithms (DSA)** through consistent practice and implementation.
