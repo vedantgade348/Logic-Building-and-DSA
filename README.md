@@ -1,5 +1,4 @@
-
- 🧠 Logic Building & Data Structures and Algorithms
+🧠 Logic Building & Data Structures and Algorithms
 
 This repository documents my journey of strengthening **problem-solving, logic building, and Data Structures & Algorithms (DSA)** through consistent practice and implementation.
 
